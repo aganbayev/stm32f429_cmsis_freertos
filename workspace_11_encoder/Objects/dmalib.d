@@ -1,0 +1,10 @@
+.\objects\dmalib.o: Code\src\DmaLib.c
+.\objects\dmalib.o: .\Code\inc\DmaLib.h
+.\objects\dmalib.o: .\CMSIS\inc\stm32f429xx.h
+.\objects\dmalib.o: .\CMSIS\inc\core_cm4.h
+.\objects\dmalib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dmalib.o: .\CMSIS\inc\cmsis_version.h
+.\objects\dmalib.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\dmalib.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\dmalib.o: .\CMSIS\inc\mpu_armv7.h
+.\objects\dmalib.o: .\CMSIS\inc\system_stm32f4xx.h

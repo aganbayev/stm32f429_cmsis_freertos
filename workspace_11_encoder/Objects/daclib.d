@@ -1,0 +1,10 @@
+.\objects\daclib.o: Code\src\DacLib.c
+.\objects\daclib.o: .\Code\inc\DacLib.h
+.\objects\daclib.o: .\CMSIS\inc\stm32f429xx.h
+.\objects\daclib.o: .\CMSIS\inc\core_cm4.h
+.\objects\daclib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\daclib.o: .\CMSIS\inc\cmsis_version.h
+.\objects\daclib.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\daclib.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\daclib.o: .\CMSIS\inc\mpu_armv7.h
+.\objects\daclib.o: .\CMSIS\inc\system_stm32f4xx.h

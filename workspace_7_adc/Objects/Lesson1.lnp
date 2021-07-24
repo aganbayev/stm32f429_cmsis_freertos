@@ -1,0 +1,21 @@
+--cpu=Cortex-M4.fp
+".\objects\startup_stm32f429xx.o"
+".\objects\system_stm32f4xx.o"
+".\objects\main.o"
+".\objects\sysinit.o"
+".\objects\timlib.o"
+".\objects\uartlib.o"
+".\objects\adclib.o"
+".\objects\croutine.o"
+".\objects\event_groups.o"
+".\objects\list.o"
+".\objects\port.o"
+".\objects\queue.o"
+".\objects\stream_buffer.o"
+".\objects\tasks.o"
+".\objects\timers.o"
+".\objects\heap_1.o"
+--strict --scatter ".\Objects\Lesson1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Lesson1.map" -o .\Objects\Lesson1.axf

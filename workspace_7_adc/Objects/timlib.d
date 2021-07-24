@@ -1,0 +1,10 @@
+.\objects\timlib.o: Code\src\TimLib.c
+.\objects\timlib.o: .\Code\inc\TimLib.h
+.\objects\timlib.o: .\CMSIS\inc\stm32f429xx.h
+.\objects\timlib.o: .\CMSIS\inc\core_cm4.h
+.\objects\timlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timlib.o: .\CMSIS\inc\cmsis_version.h
+.\objects\timlib.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\timlib.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\timlib.o: .\CMSIS\inc\mpu_armv7.h
+.\objects\timlib.o: .\CMSIS\inc\system_stm32f4xx.h

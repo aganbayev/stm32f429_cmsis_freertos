@@ -1,0 +1,10 @@
+.\objects\uartlib.o: Code\src\UartLib.c
+.\objects\uartlib.o: .\Code\inc\UartLib.h
+.\objects\uartlib.o: .\CMSIS\inc\stm32f429xx.h
+.\objects\uartlib.o: .\CMSIS\inc\core_cm4.h
+.\objects\uartlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uartlib.o: .\CMSIS\inc\cmsis_version.h
+.\objects\uartlib.o: .\CMSIS\inc\cmsis_compiler.h
+.\objects\uartlib.o: .\CMSIS\inc\cmsis_armcc.h
+.\objects\uartlib.o: .\CMSIS\inc\mpu_armv7.h
+.\objects\uartlib.o: .\CMSIS\inc\system_stm32f4xx.h
